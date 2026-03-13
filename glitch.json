@@ -1,9 +1,0 @@
-{
-  "install": "cd profOrientation && npm install",
-  "start": "cd profOrientation && npm start",
-  "watch": {
-    "restart": {
-      "include": ["profOrientation/"]
-    }
-  }
-}
