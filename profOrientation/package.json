@@ -1,0 +1,18 @@
+{
+  "name": "proforientation",
+  "version": "1.0.0",
+  "description": "Telegram bot for career guidance",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
